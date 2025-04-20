@@ -23,3 +23,8 @@ MySQL for database backend
 
 IDE: NetBeans
 
+Create your own database in mysql and change the JDBC connection in every code.
+And first run the LoginFrame.java code.
+
+Thank You  😎
+
